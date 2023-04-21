@@ -1,13 +1,13 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMD12K232_V1.0.png" width="480" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMD12K202_V1.0.png" width="480" height="240"> 
 </div> 
 
-BM12O2321_A
+BM12O2021_A
 ===========================================================
 
-BM12O2321-A is an H-bridge driver module launched by Basetron, which uses 9-bit single-wire bidirectional UART communication Letter way.This document describes how to install Arduino Lib on the Arduino Lib function of the BM12O2321-A. The example demonstrates the function of sending single step delay operation command to H bridge and obtaining load current.
+BM12O2012-A is an NMOS driver module launched by Basetron, which uses a 9-bit single-wire bidirectional UART Mode of communication.This document describes the Arduino Lib function and Arduino Lib installation method for BM12O2012-A to explain; Examples demonstrate features such as setting the NMOS PWM output.
 
-This library can be installed via the Arduino Library manager. Search for **BM12O2321_A**. 
+This library can be installed via the Arduino Library manager. Search for **BM12O2021_A**. 
 
 Repository Contents
 -------------------
@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BM12O2321_A Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm12o2321_a.html#tab-product2 )** - Arduino Library Description.
+* **[BM12O2021_A Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm12o2021_a.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
