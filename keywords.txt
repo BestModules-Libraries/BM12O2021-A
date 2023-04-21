@@ -1,0 +1,68 @@
+#######################################
+# Syntax Coloring Map For EEPROM
+#######################################
+
+#######################################
+# Classes and Objects (KEYWORD1)
+#######################################
+
+BM12O2021_A	KEYWORD1
+Test	KEYWORD1
+NMOS	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+reset		KEYWORD2
+standBy	KEYWORD2
+getFWVer	KEYWORD2
+setEID		KEYWORD2
+setPWM		KEYWORD2
+setON	KEYWORD2
+setOFF	KEYWORD2
+getStatus	KEYWORD2
+setOCP		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CMD_RESET		LITERAL1
+CMD_STANDBY		LITERAL1
+CMD_SYNCACTION	LITERAL1
+CMD_WAKEUP		LITERAL1
+CMD_GETFWVER	LITERAL1
+CMD_DELAY		LITERAL1
+CMD_SETEID		LITERAL1
+CMD_SETONOFF	LITERAL1
+CMD_SETPWM		LITERAL1
+CMD_READSTATUS	LITERAL1
+CMD_SETOCP		LITERAL1
+
+OCP_0_25A	LITERAL1
+OCP_0_5A	LITERAL1
+OCP_0_75A	LITERAL1
+OCP_1_0A	LITERAL1
+OCP_1_25A	LITERAL1
+OCP_1_5A	LITERAL1
+OCP_1_8A	LITERAL1
+OCP_2_0A	LITERAL1
+
+MOS1	LITERAL1
+MOS2	LITERAL1
+MOS3	LITERAL1
+MOS4	LITERAL1
+
+MOS1_ON	LITERAL1
+MOS2_ON	LITERAL1
+MOS3_ON	LITERAL1
+MOS4_ON	LITERAL1
+ALL_ON	LITERAL1
+
+F_5KHZ	LITERAL1
+F_10KHZ	LITERAL1
+F_20KHZ	LITERAL1
+F_25KHZ	LITERAL1
+F_50KHZ	LITERAL1
