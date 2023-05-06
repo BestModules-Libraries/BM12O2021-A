@@ -7,6 +7,16 @@ BM12O2021-A
 
 BM12O2012-A is an NMOS driver module launched by Basetron, which uses a 9-bit single-wire bidirectional UART Mode of communication method.This document describes the Arduino Lib function and Arduino Lib installation method for BM12O2012-A to explain; Examples demonstrate features such as setting the NMOS PWM output.
 
+#### Applicable types:
+<div align=center>
+
+|Part No.   |Description                   |
+|:---------:|:----------------------------:|
+|BM12O2012-A|NMOS driver module|
+|BMD12K202  |NMOS driver module,contains an adapter board, a connection Line and the BM12O2012-A module |
+
+</div> 
+
 This library can be installed via the Arduino Library manager. Search for **BM12O2021-A**. 
 
 Repository Contents
